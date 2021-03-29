@@ -1,0 +1,21 @@
+/* Helpers */
+.d-none {
+  display: none !important;
+}
+
+textarea {
+  height: 150px;
+}
+
+.brief-form .step {
+  margin-top: 20vh;
+}
+
+.buttons-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.buttons-actions .button-primary {
+  margin-left: 10px;
+}
